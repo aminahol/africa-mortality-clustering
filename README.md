@@ -70,6 +70,11 @@ This project analyzes healthcare disparities across African countries using data
 5. **Access to Medical Professionals Reflects System-Level Investment**  
    While countries like Nigeria and Egypt have more doctors due to population size, others like Tunisia and Algeria achieve high doctor access through deliberate, strategic investment, demonstrating that healthcare quality can be improved independent of population.
 
+![Clustered Mortality Map](https://raw.githubusercontent.com/aminahol/africa-mortality-clustering/main/clustered_mortality_map.png)
+
+![Clustered Mortality sunburst](https://github.com/aminahol/africa-mortality-clustering/blob/56570a62f0ad738a578e21a82bf5abb9cd1021eb/country_cluster_sunburst.png)
+
+
 ---
 
 ## 🔗 Power BI Dashboard  
